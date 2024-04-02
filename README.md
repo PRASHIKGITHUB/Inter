@@ -1,7 +1,7 @@
 # HighPrep-Assignment
 # News Forum
 I have created this website using multiple components combined in single index.html file.
-For the Homepage, the animation part is done using `shery.js` library which is recently launced on Sheryians Coding School Youtube channel.
+For the Homepage, the animation part is done using `shery.js` library which is recently launced on Sheryians Coding School Youtube channel
 The code for animation is as follow,It is inside server.js.
 To implement this you just have to wrap multiple images in a div with a suitable Id.For me the Id is `#back`
 
